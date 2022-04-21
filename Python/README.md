@@ -1,1 +1,1 @@
-Web scarping using python programming language.
+Web scraping using python programming language.
